@@ -1,5 +1,9 @@
 💸 FinanCIA — App de Organização de Finanças Pessoais com Vibe Coding
 
+"DIO" (https://img.shields.io/badge/DIO-Lab%20Vibe%20Coding-blue)
+"IA" (https://img.shields.io/badge/IA-Copilot%20%7C%20Lovable-purple)
+"Status" (https://img.shields.io/badge/Status-MVP%20Conceitual-green)
+
 «Projeto desenvolvido como parte do desafio App de Organização de Finanças Pessoais com Vibe Coding, utilizando IA como parceira para transformar uma ideia de produto em um conceito de MVP.»
 
 📌 Sobre o projeto
