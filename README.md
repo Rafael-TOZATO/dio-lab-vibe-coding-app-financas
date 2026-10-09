@@ -100,6 +100,7 @@ Engenharia Química | Garantia da Qualidade | Governança 4.0
 - **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
 - **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 
 Organize o resultado considerando funcionalidades prioritárias, recursos necessários e critérios de validação.
 
