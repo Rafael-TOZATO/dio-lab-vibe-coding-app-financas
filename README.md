@@ -93,14 +93,13 @@ O controle financeiro tradicional pode exigir muitos lançamentos manuais, categ
 
 Engenharia Química | Garantia da Qualidade | Governança 4.0
 
-### Contato
+## 📞 Contato
 
-- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
-a demonstração e não inclua integrações bancárias reais.
+- **E-mail:** [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
+- **LinkedIn:** [Rafael Ornelas Tozato](https://www.linkedin.com/in/rafaeltozato81)
+- **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
+- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
 Organize o resultado considerando funcionalidades prioritárias, recursos necessários e critérios de validação.
 
