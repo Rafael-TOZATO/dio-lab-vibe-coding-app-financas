@@ -87,20 +87,6 @@ O controle financeiro tradicional pode exigir muitos lançamentos manuais, categ
 
 ---
 
-## Autor
-
-**Rafael Ornelas Tozato**
-
-Engenharia Química | Garantia da Qualidade | Governança 4.0
-
-## 📞 Contato
-
-- **E-mail:** [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
-- **LinkedIn:** [Rafael Ornelas Tozato](https://www.linkedin.com/in/rafaeltozato81)
-- **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 
 Organize o resultado considerando funcionalidades prioritárias, recursos necessários e critérios de validação.
 
@@ -194,5 +180,14 @@ https://github.com/Rafael-TOZATO/dio-lab-vibe-coding-app-financas
 📝 Observação
 
 Este projeto foi desenvolvido como atividade prática do desafio App de Organização de Finanças Pessoais com Vibe Coding da DIO.
+
+
+ ## 📬 Contatos
+
+  - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+  - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+  - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+  - 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+  - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
 A proposta é educacional e conceitual, utilizando dados fictícios para demonstração. Não representa uma aplicação financeira conectada a instituições bancárias reais.
