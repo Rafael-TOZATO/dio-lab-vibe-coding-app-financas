@@ -182,26 +182,24 @@ https://github.com/Rafael-TOZATO/dio-lab-vibe-coding-app-financas
 Este projeto foi desenvolvido como atividade prática do desafio App de Organização de Finanças Pessoais com Vibe Coding da DIO.
 
 ---
- 
- 💻 **Projetos e Portfólios**
-- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
-🐙 **Código e Repositórios**
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+**Rafael Ornelas Tozato**
 
-✍️ **Artigos e Publicações**
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+Engenharia Química | Garantia da Qualidade | Governança 4.0
 
-📬 **Contatos**
-- 📌 **E-mail:** ornelas.tozato@gmail.com
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 💻 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-- 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
+## 📬 CONTATOS E PERFIS
 
----
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
-A proposta é educacional e conceitual, utilizando dados fictícios para demonstração. Não representa uma aplicação financeira conectada a instituições bancárias reais.
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
